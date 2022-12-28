@@ -5,14 +5,7 @@
 
 <h2 align="center"> I'm a Computer Science Student 💻! </h2>
 
-<!-- > "I'm here to put on a show". -->
-
-## 📋 Current Goals
-- [ ] Learn Flutter. 
-- [ ] Start a Tech Youtube channel.
-- [ ] Branding myself as a Speaker specialized in Tech. 
-- [ ] Write at least 5 blog post based in Tech on Medium. 
-- [ ] Develop 3 projects following the Indie Hacking philosophy. 
+> "I'm here to put on a show".
 
 ## 💼 Technical Skills   
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
