@@ -5,7 +5,8 @@
 
 <h2 align="center"> I'm a Computer Science Student 💻! </h2>
 
-> "I'm here to put on a show".
+> "The reflection of who we are depends on the habits we have".
+
 
 ## 💼 Technical Skills   
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
