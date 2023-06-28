@@ -6,6 +6,7 @@
 <h2 align="center"> I'm a Computer Science Student 💻! </h2>
 
 > "The reflection of who we are depends on the habits we have".
+> 💎 1% Better than yesterday...
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divelz&show_icons=true&theme=tokyonight)
